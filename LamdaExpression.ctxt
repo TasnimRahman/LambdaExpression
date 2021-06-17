@@ -1,0 +1,7 @@
+#BlueJ class context
+comment0.target=LamdaExpression
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment2.params=a\ b\ AlgebricOperation
+comment2.target=int\ operate(int,\ int,\ LamdaExpression.AlgebricOperation)
+numComments=3
